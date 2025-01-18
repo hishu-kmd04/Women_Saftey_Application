@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locations>
+    <location name="Ujire Bus Stand">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Jamia Masjid Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Safe" />
+    </location>
+    <location name="Shri Durgaparameshwari Temple">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Government Hospital Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="SDM College Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="Ujire Market">
+        <time period="Morning" safety="Moderate" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Santhekatte Bus Stand">
+        <time period="Morning" safety="Unsafe" />
+        <time period="Afternoon" safety="Moderate" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Sri Ram Bhajana Mandir Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Safe" />
+    </location>
+    <location name="Sri Janardhanaswami Temple Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="Benaka Health Centre Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="Shri Laxmi Venkatesh Lodge Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="SDM De-addiction Centre Belthangady">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="SDM Residential PU College Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Safe" />
+    </location>
+    <location name="SDM Institute of Technology Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Safe" />
+    </location>
+    <location name="SLV Super Market Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Mahaveera Super Market Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="Rathnavarma Stadium Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Safe" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="Siddavana Gurukula Annapoorne Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Unsafe" />
+        <time period="Night" safety="Unsafe" />
+    </location>
+    <location name="Nethravathi Bathing Ghat">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Moderate" />
+    </location>
+    <location name="SDM Multi-Speciality Hospital Ujire">
+        <time period="Morning" safety="Safe" />
+        <time period="Afternoon" safety="Safe" />
+        <time period="Evening" safety="Moderate" />
+        <time period="Night" safety="Moderate" />
+    </location>
+</locations>
